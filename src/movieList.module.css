@@ -1,0 +1,19 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.col {
+  width: 25%;
+  box-sizing: border-box;
+  padding: 0 15px;
+  margin-bottom: 20px;
+}
+
+.item {
+  background-color: rgb(163, 163, 163);
+  color: #ffffff;
+}
+
+.item img {
+  width: 100%;
+}
